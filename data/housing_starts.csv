@@ -1,0 +1,79 @@
+REF_DATE,GEO,DGUID,Housing estimates,UOM,UOM_ID,STATUS,SYMBOL,TERMINATED,DECIMALS,GeoUID,Classification Code for Housing estimates,Hierarchy for Housing estimates,Classification Code for Type of unit,Date,Apartment and other unit types,Row units,Semi-detached units,Single-detached units
+2018,"Belleville, Ontario",2011S0504522,Housing completions,Units,300,NA,NA,NA,0,[522],NA,3,NA,2018-01-01,36,86,34,406
+2018,"Belleville, Ontario",2011S0504522,Housing starts,Units,300,NA,NA,NA,0,[522],NA,1,NA,2018-01-01,127,94,28,394
+2018,"Belleville, Ontario",2011S0504522,Housing under construction,Units,300,NA,NA,NA,0,[522],NA,2,NA,2018-01-01,168,80,20,245
+2018,"Cape Breton, Nova Scotia",2011S0504225,Housing completions,Units,300,NA,NA,NA,0,[225],NA,3,NA,2018-01-01,4,4,74,112
+2018,"Cape Breton, Nova Scotia",2011S0504225,Housing starts,Units,300,NA,NA,NA,0,[225],NA,1,NA,2018-01-01,5,4,60,102
+2018,"Cape Breton, Nova Scotia",2011S0504225,Housing under construction,Units,300,NA,NA,NA,0,[225],NA,2,NA,2018-01-01,4,0,40,68
+2018,"Charlottetown, Prince Edward Island",2011S0504105,Housing completions,Units,300,NA,NA,NA,0,[105],NA,3,NA,2018-01-01,262,72,58,263
+2018,"Charlottetown, Prince Edward Island",2011S0504105,Housing starts,Units,300,NA,NA,NA,0,[105],NA,1,NA,2018-01-01,327,79,72,278
+2018,"Charlottetown, Prince Edward Island",2011S0504105,Housing under construction,Units,300,NA,NA,NA,0,[105],NA,2,NA,2018-01-01,218,78,50,185
+2018,"Chatham-Kent, Ontario",2011S0504556,Housing completions,Units,300,NA,NA,NA,0,[556],NA,3,NA,2018-01-01,12,7,28,112
+2018,"Chatham-Kent, Ontario",2011S0504556,Housing starts,Units,300,NA,NA,NA,0,[556],NA,1,NA,2018-01-01,0,6,24,113
+2018,"Chatham-Kent, Ontario",2011S0504556,Housing under construction,Units,300,NA,NA,NA,0,[556],NA,2,NA,2018-01-01,132,0,14,62
+2018,"Chilliwack, British Columbia",2011S0504930,Housing completions,Units,300,NA,NA,NA,0,[930],NA,3,NA,2018-01-01,121,237,26,599
+2018,"Chilliwack, British Columbia",2011S0504930,Housing starts,Units,300,NA,NA,NA,0,[930],NA,1,NA,2018-01-01,255,189,8,423
+2018,"Chilliwack, British Columbia",2011S0504930,Housing under construction,Units,300,NA,NA,NA,0,[930],NA,2,NA,2018-01-01,361,120,6,300
+2018,"Cornwall, Ontario",2011S0504501,Housing completions,Units,300,NA,NA,NA,0,[501],NA,3,NA,2018-01-01,3,25,92,89
+2018,"Cornwall, Ontario",2011S0504501,Housing starts,Units,300,NA,NA,NA,0,[501],NA,1,NA,2018-01-01,10,8,64,92
+2018,"Cornwall, Ontario",2011S0504501,Housing under construction,Units,300,NA,NA,NA,0,[501],NA,2,NA,2018-01-01,5,8,36,67
+2018,"Drummondville, Quebec",2011S0504447,Housing completions,Units,300,NA,NA,NA,0,[447],NA,3,NA,2018-01-01,261,0,96,235
+2018,"Drummondville, Quebec",2011S0504447,Housing starts,Units,300,NA,NA,NA,0,[447],NA,1,NA,2018-01-01,293,0,98,242
+2018,"Drummondville, Quebec",2011S0504447,Housing under construction,Units,300,NA,NA,NA,0,[447],NA,2,NA,2018-01-01,156,0,22,82
+2018,"Fredericton, New Brunswick",2011S0504320,Housing completions,Units,300,NA,NA,NA,0,[320],NA,3,NA,2018-01-01,144,73,14,218
+2018,"Fredericton, New Brunswick",2011S0504320,Housing starts,Units,300,NA,NA,NA,0,[320],NA,1,NA,2018-01-01,230,44,14,175
+2018,"Fredericton, New Brunswick",2011S0504320,Housing under construction,Units,300,NA,NA,NA,0,[320],NA,2,NA,2018-01-01,258,61,8,101
+2018,"Granby, Quebec",2011S0504450,Housing completions,Units,300,NA,NA,NA,0,[450],NA,3,NA,2018-01-01,584,20,116,152
+2018,"Granby, Quebec",2011S0504450,Housing starts,Units,300,NA,NA,NA,0,[450],NA,1,NA,2018-01-01,372,24,106,173
+2018,"Granby, Quebec",2011S0504450,Housing under construction,Units,300,NA,NA,NA,0,[450],NA,2,NA,2018-01-01,203,13,36,90
+2018,"Grande Prairie, Alberta",2011S0504850,Housing completions,Units,300,NA,NA,NA,0,[850],NA,3,NA,2018-01-01,7,3,32,133
+2018,"Grande Prairie, Alberta",2011S0504850,Housing starts,Units,300,NA,NA,NA,0,[850],NA,1,NA,2018-01-01,21,3,22,121
+2018,"Grande Prairie, Alberta",2011S0504850,Housing under construction,Units,300,NA,NA,NA,0,[850],NA,2,NA,2018-01-01,11,3,26,85
+2018,"Kamloops, British Columbia",2011S0504925,Housing completions,Units,300,NA,NA,NA,0,[925],NA,3,NA,2018-01-01,107,53,104,341
+2018,"Kamloops, British Columbia",2011S0504925,Housing starts,Units,300,NA,NA,NA,0,[925],NA,1,NA,2018-01-01,785,70,58,307
+2018,"Kamloops, British Columbia",2011S0504925,Housing under construction,Units,300,NA,NA,NA,0,[925],NA,2,NA,2018-01-01,1135,91,78,252
+2018,"Kawartha Lakes, Ontario",2011S0504530,Housing completions,Units,300,NA,NA,NA,0,[530],NA,3,NA,2018-01-01,38,3,4,273
+2018,"Kawartha Lakes, Ontario",2011S0504530,Housing starts,Units,300,NA,NA,NA,0,[530],NA,1,NA,2018-01-01,0,16,4,229
+2018,"Kawartha Lakes, Ontario",2011S0504530,Housing under construction,Units,300,NA,NA,NA,0,[530],NA,2,NA,2018-01-01,0,16,4,178
+2018,"Lethbridge, Alberta",2011S0504810,Housing completions,Units,300,NA,NA,NA,0,[810],NA,3,NA,2018-01-01,145,89,38,440
+2018,"Lethbridge, Alberta",2011S0504810,Housing starts,Units,300,NA,NA,NA,0,[810],NA,1,NA,2018-01-01,56,77,42,385
+2018,"Lethbridge, Alberta",2011S0504810,Housing under construction,Units,300,NA,NA,NA,0,[810],NA,2,NA,2018-01-01,33,108,28,247
+2018,"Medicine Hat, Alberta",2011S0504805,Housing completions,Units,300,NA,NA,NA,0,[805],NA,3,NA,2018-01-01,4,23,18,110
+2018,"Medicine Hat, Alberta",2011S0504805,Housing starts,Units,300,NA,NA,NA,0,[805],NA,1,NA,2018-01-01,223,21,18,84
+2018,"Medicine Hat, Alberta",2011S0504805,Housing under construction,Units,300,NA,NA,NA,0,[805],NA,2,NA,2018-01-01,219,7,16,44
+2018,"Nanaimo, British Columbia",2011S0504938,Housing completions,Units,300,NA,NA,NA,0,[938],NA,3,NA,2018-01-01,489,63,40,407
+2018,"Nanaimo, British Columbia",2011S0504938,Housing starts,Units,300,NA,NA,NA,0,[938],NA,1,NA,2018-01-01,435,22,62,315
+2018,"Nanaimo, British Columbia",2011S0504938,Housing under construction,Units,300,NA,NA,NA,0,[938],NA,2,NA,2018-01-01,465,22,44,264
+2018,"Norfolk, Ontario",2011S0504547,Housing completions,Units,300,NA,NA,NA,0,[547],NA,3,NA,2018-01-01,2,63,0,196
+2018,"Norfolk, Ontario",2011S0504547,Housing starts,Units,300,NA,NA,NA,0,[547],NA,1,NA,2018-01-01,0,62,6,178
+2018,"Norfolk, Ontario",2011S0504547,Housing under construction,Units,300,NA,NA,NA,0,[547],NA,2,NA,2018-01-01,0,100,10,134
+2018,"North Bay, Ontario",2011S0504575,Housing completions,Units,300,NA,NA,NA,0,[575],NA,3,NA,2018-01-01,0,8,4,56
+2018,"North Bay, Ontario",2011S0504575,Housing starts,Units,300,NA,NA,NA,0,[575],NA,1,NA,2018-01-01,55,0,0,61
+2018,"North Bay, Ontario",2011S0504575,Housing under construction,Units,300,NA,NA,NA,0,[575],NA,2,NA,2018-01-01,64,16,2,93
+2018,"Prince George, British Columbia",2011S0504970,Housing completions,Units,300,NA,NA,NA,0,[970],NA,3,NA,2018-01-01,161,24,6,155
+2018,"Prince George, British Columbia",2011S0504970,Housing starts,Units,300,NA,NA,NA,0,[970],NA,1,NA,2018-01-01,206,25,2,194
+2018,"Prince George, British Columbia",2011S0504970,Housing under construction,Units,300,NA,NA,NA,0,[970],NA,2,NA,2018-01-01,206,21,4,178
+2018,"Red Deer, Alberta",2011S0504830,Housing completions,Units,300,NA,NA,NA,0,[830],NA,3,NA,2018-01-01,13,28,32,148
+2018,"Red Deer, Alberta",2011S0504830,Housing starts,Units,300,NA,NA,NA,0,[830],NA,1,NA,2018-01-01,130,16,10,116
+2018,"Red Deer, Alberta",2011S0504830,Housing under construction,Units,300,NA,NA,NA,0,[830],NA,2,NA,2018-01-01,191,8,4,61
+2018,"Saint-Hyacinthe, Quebec",2011S0504452,Housing completions,Units,300,NA,NA,NA,0,[452],NA,3,NA,2018-01-01,132,9,10,36
+2018,"Saint-Hyacinthe, Quebec",2011S0504452,Housing starts,Units,300,NA,NA,NA,0,[452],NA,1,NA,2018-01-01,351,0,10,44
+2018,"Saint-Hyacinthe, Quebec",2011S0504452,Housing under construction,Units,300,NA,NA,NA,0,[452],NA,2,NA,2018-01-01,355,0,12,21
+2018,"Saint-Jean-sur-Richelieu, Quebec",2011S0504459,Housing completions,Units,300,NA,NA,NA,0,[459],NA,3,NA,2018-01-01,0,0,0,0
+2018,"Saint-Jean-sur-Richelieu, Quebec",2011S0504459,Housing starts,Units,300,NA,NA,NA,0,[459],NA,1,NA,2018-01-01,0,0,0,0
+2018,"Saint-Jean-sur-Richelieu, Quebec",2011S0504459,Housing under construction,Units,300,NA,NA,NA,0,[459],NA,2,NA,2018-01-01,0,0,0,0
+2018,"Sarnia, Ontario",2011S0504562,Housing completions,Units,300,NA,NA,NA,0,[562],NA,3,NA,2018-01-01,0,18,12,165
+2018,"Sarnia, Ontario",2011S0504562,Housing starts,Units,300,NA,NA,NA,0,[562],NA,1,NA,2018-01-01,36,5,22,209
+2018,"Sarnia, Ontario",2011S0504562,Housing under construction,Units,300,NA,NA,NA,0,[562],NA,2,NA,2018-01-01,38,0,12,143
+2018,"Sault Ste. Marie, Ontario",2011S0504590,Housing completions,Units,300,NA,NA,NA,0,[590],NA,3,NA,2018-01-01,0,9,4,48
+2018,"Sault Ste. Marie, Ontario",2011S0504590,Housing starts,Units,300,NA,NA,NA,0,[590],NA,1,NA,2018-01-01,8,13,2,30
+2018,"Sault Ste. Marie, Ontario",2011S0504590,Housing under construction,Units,300,NA,NA,NA,0,[590],NA,2,NA,2018-01-01,8,10,2,22
+2018,"Shawinigan, Quebec",2011S0504444,Housing completions,Units,300,NA,NA,NA,0,[444],NA,3,NA,2018-01-01,99,0,16,68
+2018,"Shawinigan, Quebec",2011S0504444,Housing starts,Units,300,NA,NA,NA,0,[444],NA,1,NA,2018-01-01,381,0,16,74
+2018,"Shawinigan, Quebec",2011S0504444,Housing under construction,Units,300,NA,NA,NA,0,[444],NA,2,NA,2018-01-01,299,0,2,29
+2018,"Vernon, British Columbia",2011S0504918,Housing completions,Units,300,NA,NA,NA,0,[918],NA,3,NA,2018-01-01,24,55,40,185
+2018,"Vernon, British Columbia",2011S0504918,Housing starts,Units,300,NA,NA,NA,0,[918],NA,1,NA,2018-01-01,154,81,54,159
+2018,"Vernon, British Columbia",2011S0504918,Housing under construction,Units,300,NA,NA,NA,0,[918],NA,2,NA,2018-01-01,209,70,46,162
+2018,"Wood Buffalo, Alberta",2011S0504860,Housing completions,Units,300,NA,NA,NA,0,[860],NA,3,NA,2018-01-01,2,218,44,543
+2018,"Wood Buffalo, Alberta",2011S0504860,Housing starts,Units,300,NA,NA,NA,0,[860],NA,1,NA,2018-01-01,157,171,28,206
+2018,"Wood Buffalo, Alberta",2011S0504860,Housing under construction,Units,300,NA,NA,NA,0,[860],NA,2,NA,2018-01-01,349,247,28,88
